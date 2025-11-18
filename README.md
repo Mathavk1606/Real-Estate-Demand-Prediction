@@ -106,8 +106,8 @@
 <h2>🛠 Technologies Used</h2>
 <ul>
   <li>Data: Polars, Pandas, NumPy</li>
-  <li>ML: XGBoost, scikit-learn, scikit-optimize</li>
-  <li>Viz: Matplotlib, Seaborn, Plotly</li>
+  <li>ML: XGBoost, scikit-learn</li>
+  <li>Viz: Matplotlib, Plotly</li>
 </ul>
 
 <h2>🤝 Contributing</h2>
