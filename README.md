@@ -1,6 +1,13 @@
 # 🏢 Real Estate Demand Prediction
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://silver-eureka-97xv5qxv5rqr3x74v-8501.app.github.dev/)
+
 An end-to-end machine learning pipeline and interactive Streamlit dashboard designed to forecast real estate transaction volumes across multiple city sectors. 
+
+## 🌐 Live Demo
+Check out the active deployment of the dashboard here: **[Real Estate Demand Forecast Viewer](https://silver-eureka-97xv5qxv5rqr3x74v-8501.app.github.dev/)**
+
+*(Note: Since this is hosted on a GitHub Codespace, the link will only be active while the Codespace environment is running.)*
 
 ## 🌍 Overview
 This project leverages historical land, new house, and pre-owned house transaction data to predict future market demand. It uses a robust hybrid modeling approach—combining Logistic Regression for zero-classification and Ridge Regression for positive volume estimation—to handle zero-inflated transaction data and generate 12-month rolling forecasts. 
